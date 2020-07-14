@@ -1,0 +1,17 @@
+.extra-pad-bot {
+    padding-bottom: 20px;
+}
+
+.first-item {
+    margin-left: -10px;
+    /*margin-right: 10px;*/
+}
+
+.last-item {
+    /*margin-left: 10px;*/ /*Opposit for Batman*/ 
+    margin-right: -10px;
+}
+
+footer .row {
+    margin-top: -20px;
+}
